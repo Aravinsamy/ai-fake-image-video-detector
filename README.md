@@ -16,4 +16,7 @@ An AI-powered web application developed using Flask and CNN deep learning model 
 - OpenCV
 - HTML, CSS, JavaScript
 
+
 ## 📂 Project Structure
+## 🌐 Live Demo
+Deployment in progress (Render Cloud Hosting)
